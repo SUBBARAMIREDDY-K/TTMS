@@ -14,7 +14,7 @@ In our application administrator has more privileges, users need to register wit
 •	To provide administrator to manage the timetable based on the grievance.
 •	To provide the environment to view the timetable by the student’s.
 •	To provide the download option to download the generated timetable for the users.
-2.	SYSTEM ANALYSIS 
+2.SYSTEM ANALYSIS 
 2.1   Existing system: 
 Generally timetable is prepared manually by the management with respect to their constraints. Creating time table manually is very time consuming process.  Manual process takes more time, more paper work and not sure about usefulness of effort.  Separate timetable copy has to be created for teachers. Dual allocation of same teacher at same time in different classes will takes places. If we want to modify the timetable we need to reconstruct the entire timetable to satisfy the management constraints. 
 2.1.1   Disadvantages of Existing System: 

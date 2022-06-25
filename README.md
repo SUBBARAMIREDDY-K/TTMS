@@ -43,3 +43,19 @@ The project “TIMETABLE MANAGEMENT SYSTEM” is a web based application which i
 11.	It provides the Download option to users to download the generated timetable.
 12.	It provides more privileges to the administrator to modify the generated timetable.
 
+3 Modules:
+ 	                       A module is defined as the unique and addressable components of the software which can be solved and modified independently without disturbing (or affecting in very small amount) other modules of the software. Thus, very software design should follow modularity. The process of breaking down a software into multiple independent modules where each module is developed separately is called Modularization. In the “Timetable management System” application there three modules those are admin module, lecturer module and student module.
+	3.1 Admin Module: 
+		The functions of the Administrator module are to handle the entire administrator task. Admin can create the time table according to the constraints (slots, courses, semesters, departments, labs). This module can see the registrations of students and lecturers. It reverify the registered lecturer’s details and the approve the lecturer’s. Admin can see and manage the departments and courses. Admin can assign the courses to the lecturers. Admin can also view the registered details. It will also handle the responsibility of adding entries in the generated time table. Admin can manage the time slots. Admin can select the slots based on the priority of the courses. Admin can view and download the timetables.  Admin can view the grievance provided by the lecturer.
+      3.2   Lecturer Module: 
+ 	The functions of the Lecture module are view their assigned courses and schedule the courses. Firstly lecturer need to register and approved by the admin to get their credentials. Lecturer can select their specific slots in the created time table by the admin. Once slots are booked to the one lecturer. Other lecturers cannot book  the same slots. Only admin can edit the booked slots. lecturer’s can send their grievance to  admin. 
+
+          3.3 Student Module: 
+The function of the student module is to view the generated timetable and can download it. Firstly student need to register based on registered credentials student can signin. All the students can signin and view their timetable and download their timetable according to their departments.
+
+4 CONCLUSION 
+     
+The current system using in the College is manual system. with the manual system, there are sometimes problems in managing the timetable with respect to the lecturer’s. The Manual time table is not satisfies the all lecturers and it prone to errors because of dual allocation of classes same teacher at same time. Timetable Management System, is a paperless time table. It is completely web-based application. It is managed by administrator. administrator can generate timetable schema according to the management constraints. After generating the timetable schema lecturer can register and login to the web application and select their specific slots in the timetable according to the constraints. Main advantage of these application is to avoid paperwork, manpower and also consume less time. These application is completely error free. These application is very helpful for present collages for generating the time table according to the constraints. These application can generate optimal time table in less time. It is very friendly and easy to use. This system is used for the colleges or any other institutes that requires timetable management system. 
+
+
+
